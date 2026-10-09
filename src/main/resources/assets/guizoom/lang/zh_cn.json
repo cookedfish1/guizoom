@@ -1,0 +1,40 @@
+{
+  "key.categories.guizoom": "界面缩放",
+  "key.guizoom.settings": "打开界面缩放设置",
+  "key.guizoom.reset": "重置界面缩放",
+  "key.guizoom.hold": "按住以用滚轮缩放",
+  "key.guizoom.cycle_mode": "切换界面缩放方案",
+
+  "guizoom.button.settings": "界面缩放",
+  "guizoom.button.tooltip": "缩放方案、滚轮行为与动画设置",
+  "guizoom.button.reset": "重置缩放",
+
+  "guizoom.screen.title": "界面缩放设置",
+  "guizoom.screen.hint": "在任意界面滚动鼠标滚轮即可缩放。",
+  "guizoom.screen.status": "当前：%s  %s",
+
+  "guizoom.indicator": "%s  |  %s",
+
+  "guizoom.option.mode": "缩放方案",
+  "guizoom.option.scroll_behavior": "滚轮行为",
+  "guizoom.option.zoom_step": "缩放步进",
+  "guizoom.option.smoothing_speed": "动画速度",
+  "guizoom.option.invert_scroll": "反转滚轮",
+  "guizoom.option.smooth_scrolling": "平滑缩放",
+  "guizoom.option.show_indicator": "缩放提示",
+  "guizoom.option.zoom_in_game": "游戏内缩放",
+  "guizoom.option.restore_vanilla": "退出时还原原版缩放",
+
+  "guizoom.scroll_behavior.always": "始终缩放",
+  "guizoom.scroll_behavior.smart": "列表内滚动，列表外缩放",
+  "guizoom.scroll_behavior.hold": "按住 %s 键缩放",
+
+  "guizoom.mode.vanilla": "原版界面缩放",
+  "guizoom.mode.vanilla.desc": "直接使用原版界面缩放选项，与视频设置里的滑块完全一致。整数档位、界面重新排版，兼容性最好。",
+  "guizoom.mode.magnifier": "放大镜",
+  "guizoom.mode.magnifier.desc": "以鼠标指针为中心放大整个界面。不改变布局，因此不会有内容被裁掉或重排；移动鼠标即可平移视野。",
+  "guizoom.mode.fractional": "分数缩放",
+  "guizoom.mode.fractional.desc": "与原版相同的缩放方式，但支持小数档位，更加平滑。界面会重新排版，所有内容仍然完整显示。",
+  "guizoom.mode.center": "居中放大",
+  "guizoom.mode.center.desc": "与放大镜相同的渲染缩放，但以屏幕中心而不是鼠标指针为锚点。"
+}

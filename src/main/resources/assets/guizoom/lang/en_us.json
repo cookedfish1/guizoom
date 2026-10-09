@@ -1,0 +1,40 @@
+{
+  "key.categories.guizoom": "GUI Zoom",
+  "key.guizoom.settings": "Open GUI Zoom settings",
+  "key.guizoom.reset": "Reset UI zoom",
+  "key.guizoom.hold": "Hold for wheel zoom",
+  "key.guizoom.cycle_mode": "Cycle UI zoom mode",
+
+  "guizoom.button.settings": "GUI Zoom",
+  "guizoom.button.tooltip": "Zoom modes, mouse wheel behaviour and animation",
+  "guizoom.button.reset": "Reset zoom",
+
+  "guizoom.screen.title": "GUI Zoom Settings",
+  "guizoom.screen.hint": "Scroll the mouse wheel in any GUI to zoom.",
+  "guizoom.screen.status": "Current: %s  %s",
+
+  "guizoom.indicator": "%s  |  %s",
+
+  "guizoom.option.mode": "Zoom mode",
+  "guizoom.option.scroll_behavior": "Mouse wheel",
+  "guizoom.option.zoom_step": "Zoom step",
+  "guizoom.option.smoothing_speed": "Animation speed",
+  "guizoom.option.invert_scroll": "Invert wheel",
+  "guizoom.option.smooth_scrolling": "Smooth zoom",
+  "guizoom.option.show_indicator": "Zoom indicator",
+  "guizoom.option.zoom_in_game": "Zoom without GUI",
+  "guizoom.option.restore_vanilla": "Restore vanilla scale",
+
+  "guizoom.scroll_behavior.always": "Always zoom",
+  "guizoom.scroll_behavior.smart": "Scroll inside lists, zoom outside",
+  "guizoom.scroll_behavior.hold": "Hold %s + wheel",
+
+  "guizoom.mode.vanilla": "Vanilla GUI scale",
+  "guizoom.mode.vanilla.desc": "Uses the real vanilla GUI scale option, exactly like the video settings slider. Integer steps, reflows every screen, maximum mod compatibility.",
+  "guizoom.mode.magnifier": "Magnifier",
+  "guizoom.mode.magnifier.desc": "Magnifies the rendered GUI around the mouse cursor. The layout is untouched, so nothing is ever clipped or reflowed; move the mouse to pan the view.",
+  "guizoom.mode.fractional": "Fractional scale",
+  "guizoom.mode.fractional.desc": "Continuous GUI scale like the vanilla one, but with decimal steps. The layout reflows, so everything stays on screen.",
+  "guizoom.mode.center": "Centre zoom",
+  "guizoom.mode.center.desc": "Same render zoom as the magnifier, but anchored on the centre of the screen instead of the pointer."
+}
